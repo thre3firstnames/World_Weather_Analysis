@@ -2,6 +2,9 @@
 config.py
 gmaps.py
 
+#folders to ignore
+Practice Files/
+
 #Files to ignore
 API_practice.ipynb
 random_numbers.ipynb
